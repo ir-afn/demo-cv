@@ -116,11 +116,11 @@ section {
     background-color: #f2ff68;
 }
 
-.socials__link {
+.footer__link {
     text-decoration: none;
 }
 
-.socials__link img {
+.footer__link img {
     height: 40px;
     width: auto;
     margin-right: 20px;
@@ -155,7 +155,6 @@ section {
 
         .header {
             flex-direction: column;
-            /* align-items: flex-start; */
         }
 
         .header__photo {
