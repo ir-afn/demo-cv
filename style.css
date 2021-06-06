@@ -117,15 +117,16 @@ section {
 }
 
 .footer__link {
+    display: inline-block;
     text-decoration: none;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-top: 40px;
 }
 
 .footer__link img {
     height: 40px;
     width: auto;
-    margin-right: 20px;
-    margin-bottom: 30px;
-    margin-top: 40px;
 }
 
 
